@@ -14,8 +14,8 @@ Nu folgchen zwee Tabellen mit de Vorschlechen für den tächlichen Jebrauch.
 | Verb        | Aktueller Jebrauch | Vorschlach             |
 |-------------|--------------------|------------------------|
 | pull        | pullen             | zeern                  |
-| push        | pushen             | drücken                |
-| fetch       | fetchen            | holn                   |
+| push        | pushen             | drügggn                |
+| fetch       | fetchen            | holln                   |
 | branch      | branchen           | abzweijchen            |
 | commit      | commiten           | überjeben              |
 | rebase      | rebasen            | umschreiben            |
@@ -26,7 +26,7 @@ Nu folgchen zwee Tabellen mit de Vorschlechen für den tächlichen Jebrauch.
 
 | Substantiv   | Aktueller jebrauch | Vorschlach     |
 |--------------|--------------------|---------------|
-| git          | git                | bleo   |
+| git          | git                | blinse   |
 | repository   | repo               | lareerstätte   |
 | branch       | branch             | zweeg         |
 | commit       | commit             | überjabe      |
@@ -44,7 +44,7 @@ Nu folgchen zwee Tabellen mit de Vorschlechen für den tächlichen Jebrauch.
 
     - Am besten wir glauben uns die Rosinen aus dem Meisterzweeg heraus.
 
-## Git auf Deutsch anwenden
+## Git auf Deutsch (Sächsisch) anwenden
 
 Wer den nächsten Schritt machen will, hier eine Anleitung, die Git auf Deutsch
 in Deine Konsole bringt. Da Git keine Umlaute zulässt, müssen wir in den 
@@ -61,4 +61,4 @@ vor:
     git config --global alias.indebude stash
     git config --global alias.margiern tag
 
-    alias bleo=git
+    alias blinse=git
