@@ -27,7 +27,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | Substantiv    | Aktueller Gebrauch | Vorschlag            |
 |---------------|--------------------|----------------------|
 | git           | git                | Depp                 |
-| github        | github             | Deppendrehkreuz      |
+| github        | github             | Github (Eigenname)   |
 | gitlab        | gitlab             | Deppenlabor          |
 | repository    | repo               | Lagerstätte          |
 | branch        | branch             | Zweig                |
@@ -39,7 +39,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 
 ## Beispiele
 
-    - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und zum Deppendrehkreuz drücken?
+    - Kannst du den Zweig, den ich gerade umgeschrieben hab, ziehen und auf Github drücken?
 
     - Ich hab gerade abgezweigt und die Änderungen aus meinem Bunker übergeben.
 
