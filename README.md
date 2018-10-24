@@ -27,7 +27,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | fork        | forken             | gabeln                |
 | stash       | stashen            | bunkern               |
 | tag         | taggen             | markieren             |
-| cherry-pick | cherry-picken      | Rosinen herauspicken  |
+| cherry-pick | cherry-picken      | Kirschen herauspicken  |
 | checkout    | checkouten         | nehmen                |
 
 | Substantiv    | Aktueller Gebrauch | Vorschlag            |
