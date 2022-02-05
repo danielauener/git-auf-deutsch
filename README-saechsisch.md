@@ -1,30 +1,30 @@
-# Git auf Deutsch (Säggssch)
+# Git off Deidsch (Säggssch)
 
-Die däschliche Gommunigation in deudschen Endwiglungsteams, in den `git` 
-(ibersetzt: `Blinse`) eigesetzt werd, is sehr oft Denglish. 
-_"Kannste ma bulln"_ oder _"Haste gebuschd"_ sin nur zwee
-dor seltsam klingden Ausdrigge.
+Die däschlische Gommunigation in deidschen Endwiglungsdiehms, in den `git` 
+(iebersetzt: `Blinse`) eigesetzt werd, is sehr oft Denglisch. 
+Dobei kommd ofd merkgwerdsches Zeich wie _"Kannsde ma bulln?"_ oder
+_"Hasde gebuschd?"_ raus.
 
-Git off Deudsch (Säggssch) ziehd die Karre ausm Mist!
+Git off Deidsch (Säggssch) ziehd de Karre ausm Mist!
 
 ## Vorschläsche
 
-Nu folschen zwee Dabelln mit Vorschläschen für den däglichen Gebrauch.
+Nu folschen zwee Dabelln mit Vorschläschen für den däschlischen Gebrauch.
 
-| Verb        | Aktueller Gebrauch | Vorschlach             |
+| Verb        | Denglischer Mist   | Vorschlach             |
 |-------------|--------------------|------------------------|
 | pull        | pullen             | zerrn                  |
 | push        | pushen             | driggn                 |
-| fetch       | fetchen            | holln                  |
-| branch      | branchen           | abzweijschen           |
+| fetch       | fetchen            | holn                   |
+| branch      | branchen           | abzweeschen            |
 | commit      | commiten           | iebergehm              |
 | rebase      | rebasen            | umschreihm             |
 | merge       | mergen             | zammmeern              |
-| stash       | stashen            | indebuchdeschdelln     |
-| tag         | tagen              | margiern               |
+| stash       | stashen            | in de Buchde schdelln  |
+| tag         | taggen             | margiern               |
 | cherry-pick | cherry-picken      | de Rosinen rausglaum   |
 
-| Substantiv   | Aktueller Gebrauch | Vorschlach        |
+| Subsdandiv   | Denglischer Mist   | Vorschlach        |
 |--------------|--------------------|-------------------|
 | git          | git                | Blinse            |
 | repository   | repo               | Laacherschdädde   |
@@ -36,28 +36,29 @@ Nu folschen zwee Dabelln mit Vorschläschen für den däglichen Gebrauch.
 
 ## Beispiele
 
-    - Kannste de den Zweesch, den ich gerade umgeschriem hab, zerrn un zu Github drüggn?
+    - Isch hab den Zweesch grad umgeschriehm, kannsde den zerrn unn off de Blinsennabe driggn?
 
     - Isch hab grade abgezweescht und de Änderung aus meiner Buchde iebergehm.
 
-    - Mach eene Nimmdasanfrache, wenn de mit dem Zammmeeren fertsch bist!
+    - Mach eene Nimmdasanfrache, wenn de mit dem Zammmeern fertsch bist!
 
-    - Am besten mier glaum uns de Rosin ausm Meisterzweesch.
+    - Am besten mier glaum uns de Rosin ausm Meesterzweesch.
 
-## Git off Deutsch (Säggssch) anwenden
+## Git off Säggssch off dr Konsole
 
-Wer den nächsten Schritt machen will, hier eine Anleitung, die Git auf Deutsch
-in Deine Konsole bringt. Da Git keine Umlaute zulässt, müssen wir in den 
-Befehlen leider darauf verzichten. Nimm folgende Änderungen in Deiner `~/.gitconfig` 
-vor:
+Wennde den näschsdn Schridd machn willsd, folsche dr Anleidung um de Blinse ooch off
+dr Konsole off Säggssch zu benudzn.
+
+De Blinse kann ned mid Umlauden umgehn, weil's ehm enne Blinse is. Äs unn Ös gehn also
+ned. Genuch Gelapp, nu fieschsde das in deene `~/.gitconfig` ein:
 
     git config --global alias.zerrn pull
     git config --global alias.driggn push
     git config --global alias.zweesch branch
-    git config --global alias.abzweijschen branch
+    git config --global alias.abzweeschen branch
     git config --global alias.iebergehm commit
     git config --global alias.iebergabe commit
-    git config --global alias.umschreim rebase
+    git config --global alias.umschreihm rebase
     git config --global alias.zammmeern merge
     git config --global alias.indebuchde stash
     git config --global alias.buchde stash
