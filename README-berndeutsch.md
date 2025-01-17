@@ -32,7 +32,7 @@ Nachfougend zwo Tabäuene mit Vorschläg füre täglech Gebruuch.
 | checkout    | checkoute          | näh                   |
 | squash      | squashe            | verdrücke             |
 
-Hier noch einige (zum Teil nicht ganz ernste)
+Hie no es paar (nid ganz so ärnst gmeinti) Vorschleg:
 
 | Substantiv    | Aktuell Gebruuch   | Vorschlag                  |
 |---------------|--------------------|----------------------------|
@@ -49,14 +49,13 @@ Hier noch einige (zum Teil nicht ganz ernste)
 | pull request  | pull request       | Ziehatrag                  |
 | merge request | merge request      | Zämelegigsahtrag           |
 | stash         | stash              | Stapu                      |
-| status        | status             | Zuestang                    |
+| status        | status             | Zuestang                   |
 | tag           | tag                | Ahstrich                   |
 | origin        | origin             | Ursprung                   |
 | master        | master             | Meischter                  |
 | main          | main               | Houpt                      |
 
-## Beispiele
-
+## Bispiu 
     - Chasch dr Ascht woni grad umgeschrybe ha, schrysse und i Löuverein uemoschte?
 
     - Für das hani es nöis Lager ahgfange, kopier ders und nimm der dr Entwicklerascht.
@@ -77,7 +76,7 @@ Hier noch einige (zum Teil nicht ganz ernste)
 
 ## Löu uf Bärndütsch bruuche
 
-Wär dr nächscht Schritt wott mache het hie none Ahleitig, wide Löu uf Bärndütsch i dini Konsole bringsch. Da Löu kener Umlut zuelaht, müessemer die bide Befäu leider usselah. Mach die folgende Änderige i dim `~/.gitconfig`:
+Wär dr nächscht Schritt wott mache het hie none Ahleitig, wide Löu uf Bärndütsch i dini Konsole bringsch. Da Löu kener Umlut zuelaht, müessemer die bide Befäu leider usselah. Mach mit em folgende Script änderige a dire Git-Konfiguration:
 
 ```bash
 
