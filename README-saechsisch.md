@@ -40,7 +40,7 @@ Nu folschen zwee Dabelln mit Vorschläschen für den däglichen Gebrauch.
 
     - Isch hab grade abgezweescht und de Änderung aus meiner Buchde iebergehm.
 
-    - Mach eene Nimmdasanfrache, wenn de mit dem Zammmeeren fertsch bist!
+    - Mach eene Nimmdasanfrache, wenn de mit dem Zammmeeren färdsch bist!
 
     - Am besten mier glaum uns de Rosin ausm Meisterzweesch.
 
