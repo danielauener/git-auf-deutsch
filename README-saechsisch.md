@@ -9,7 +9,7 @@ Git off Deudsch (Säggssch) ziehd die Karre ausm Mist!
 
 ## Vorschläsche
 
-Nu folschen zwee Dabelln mit Vorschläschen für den däglichen Gebrauch.
+Nu folschen zwee Dabelln mit Vorschläschen fürn däglichen Gebrauch.
 
 | Verb        | Aktueller Gebrauch | Vorschlach             |
 |-------------|--------------------|------------------------|
