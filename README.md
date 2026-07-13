@@ -29,7 +29,7 @@ Es folgen zwei Tabellen mit Vorschlägen für den täglichen Gebrauch.
 | stash       | stashen            | verstauen             |
 | tag         | taggen             | markieren             |
 | cherry-pick | cherry-picken      | Rosinen herauspicken  |
-| checkout    | checkouten         | ausbuchen             |
+| checkout    | auschecken         | ausbuchen             |
 | squash      | squashen           | quetschen             |
 
 Hier noch einige (zum Teil nicht ganz ernste)
